@@ -1,0 +1,76 @@
+### **New Portfolio Project Section Prompt – Ride Sharing Project**
+
+**Title:**
+**Ride Sharing – Optimizing Ride-sharing Performance & Customer Experience**
+
+**Description:**
+This project involved analyzing ride-sharing data to extract actionable insights that could enhance customer experience, boost operational efficiency, and improve financial performance.
+
+**Objectives:**
+To use data-driven methods to optimize ride-sharing service delivery, uncover trends in customer behavior, evaluate driver efficiency, and assess external influences like traffic and weather.
+
+**Tools Used:**
+
+* **Excel**: For data structuring and preliminary exploration
+* **Tableau**: For in-depth visualization and dashboard development
+
+**Key Analytical Areas:**
+
+1. **Customer Behavior & Preferences**
+
+   * Analyzed ride demand trends between weekdays and weekends
+   * Identified popular pickup/drop-off zones
+   * Highlighted preferred ride types (Sedan being most popular)
+
+2. **Driver Performance & Efficiency**
+
+   * Ranked drivers by customer ratings
+   * Measured average ride duration and completion rates per driver
+   * Unexpectedly found **no significant correlation between experience and completion rate**
+
+3. **Operational & Financial Insights**
+
+   * Analyzed average fare by ride type
+   * Studied impact of **surge pricing**, which showed a dramatic increase in revenue despite fewer rides
+
+     * Surge rides: \~\$60.46 average
+     * Non-surge: \~\$60 average
+     * 6,028 fewer surge rides
+   * Reviewed cancellation rates and payment methods
+
+4. **External Factors Impacting Rides**
+
+   * Evaluated how weather and traffic influenced ride duration and customer satisfaction
+   * Sundays had the **lowest demand**, while **Thursdays and Fridays had peak demand**
+
+**Deliverables:**
+
+* A dynamic **dashboard** with KPIs like:
+
+  * Total Revenue
+  * Average Ride Duration
+  * Total Rides Completed
+* Visuals used:
+
+  * Scatter plots
+  * Heat maps
+  * Pie charts
+  * Box plots
+
+**Project Links:**
+
+* [🔗 Tableau Public Dashboard](https://public.tableau.com/app/profile/oluwaseun.oluwadare/viz/RideSharingDataAnalysed/RideShareDashboard?pub)
+* [📁 GitHub Repo](https://github.com/Emmasheunn/Visualizations/tree/main/Tableau%20Vizzes/Ride%20Share)
+
+**How to Display on Website:**
+
+Add this project under the “Projects” or “Portfolio” section with:
+
+* A clean **card-style layout** or **accordion format**
+* Thumbnail or snapshot of the dashboard as a preview image
+* Buttons/links for:
+
+  * **View Dashboard**
+  * **View Code**
+
+Make sure the design follows the existing color scheme and modern, professional tone of the rest of the portfolio.
